@@ -41,7 +41,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
   
 Create a Windows 10 Virtual Machine (VM)
 <img src="https://i.imgur.com/lUIGz6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 Create a Linux (Ubuntu) VM
 <img src="https://i.imgur.com/m5eJdPk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
