@@ -100,14 +100,14 @@ From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its pri
   
 Back in Wireshark, filter for DNS traffic only. From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are.
 
-<img src="https://i.imgur.com/1Cr5QPw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/MwWoI4R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   
 -Observe RDP Traffic-
 
 Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
   
-<img src="https://i.imgur.com/MwWoI4R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CgQGbls.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   </p>
 <p>
