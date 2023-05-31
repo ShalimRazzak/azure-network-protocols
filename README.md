@@ -41,13 +41,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Part 1 (Create our Resources)
+- Create our Resources
+  
 1. Create a Resource Group
+  
 2. Create a Windows 10 Virtual Machine (VM)
-a. While creating the VM, select the previously created Resource Group
-b. While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
+  
 3. Create a Linux (Ubuntu) VM
-a. While create the VM, select the previously created Resource Group and Vnet
 
 </p>
 <br />
