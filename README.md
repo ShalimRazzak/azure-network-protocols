@@ -1,6 +1,3 @@
-# azure-network-protocols
-Inspecting Traffic Between Azure Virtual Machines
-
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
