@@ -38,17 +38,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+ 
 </p>
 <p>
 - Create our Resources
   
-1. Create a Resource Group
-  
-2. Create a Windows 10 Virtual Machine (VM)
-  
-3. Create a Linux (Ubuntu) VM
-
+1. Create a Windows 10 Virtual Machine (VM)
+  <img src="https://i.imgur.com/lUIGz6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Create a Linux (Ubuntu) VM
+<img src="https://i.imgur.com/m5eJdPk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
