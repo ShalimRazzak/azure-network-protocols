@@ -37,18 +37,21 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
--Create our Resources
+-Create our Resources-
+
   
 Create a Windows 10 Virtual Machine (VM)
 
 <img src="https://i.imgur.com/lUIGz6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Create a Linux (Ubuntu) VM
+
 <img src="https://i.imgur.com/m5eJdPk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 
--Observe ICMP Traffic
+-Observe ICMP Traffic-
+
 
 Within your Windows 10 Virtual Machine, Install Wireshark
 
@@ -74,8 +77,9 @@ observe the traffic in WireShark
 </p>
 <br />
 
--Observe SSH Traffic
-<p>
+-Observe SSH Traffic-
+
+
 Back in Wireshark, filter for SSH traffic only
 
 <img src="https://i.imgur.com/sOPYGRb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
