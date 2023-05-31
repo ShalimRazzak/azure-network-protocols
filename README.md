@@ -31,7 +31,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Resources
 - Observe ICMP Traffic
 - Observe SSH Traffic
-- Observe DHCP Traffic
 - Observe DNS Traffic
 - Observe RDP Traffic
 
