@@ -37,7 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-- Create our Resources
+-Create our Resources
   
 Create a Windows 10 Virtual Machine (VM)
 
