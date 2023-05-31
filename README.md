@@ -44,7 +44,6 @@ Create a Windows 10 Virtual Machine (VM)
 
 Create a Linux (Ubuntu) VM
 <img src="https://i.imgur.com/m5eJdPk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 -Observe ICMP Traffic
